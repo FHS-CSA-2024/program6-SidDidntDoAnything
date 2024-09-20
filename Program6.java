@@ -1,7 +1,7 @@
 //import stuff here!
 import java.util.Scanner;
 //Your code here
-class Calculator {
+class Program6 {
   public static void main(String[] args) {
     final double pi = 3.14159;
     Scanner inp = new Scanner(System.in);
